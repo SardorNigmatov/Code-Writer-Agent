@@ -41,7 +41,7 @@ def route_decision(state: State) -> str:
 # ---------------------------
 # Graph quruvchi
 # ---------------------------
-def graph_builder() -> StateGraph[State]:
+def build_graph() -> StateGraph[State]:
     """
     Writer → Tester → Route oqim grafigini quradi.
     """

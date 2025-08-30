@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from graph_builder import graph_builder
+from graph_builder import build_graph
 
 # ---------------------------
 # FastAPI app
@@ -8,7 +8,7 @@ from graph_builder import graph_builder
 app = FastAPI()
 
 # Graphni yaratamiz
-graph = graph_builder()
+graph = build_graph()
 
 # ---------------------------
 # Request body modeli
