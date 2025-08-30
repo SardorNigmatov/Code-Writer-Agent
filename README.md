@@ -41,8 +41,8 @@ streamlit run fastapi_servis/streamlit_app.py
 
 
 ## 🔹 Streamlit interfeysi
-<!-- <img width="1165" height="841" alt="image" src="https://github.com/user-attachments/assets/df7bd354-c4e1-4424-b4be-312c06ec9311" /> -->
+<img width="1165" height="841" alt="image" src="https://github.com/user-attachments/assets/df7bd354-c4e1-4424-b4be-312c06ec9311" />
 
 ## 🔹 Yakuniy natija (PASS/FAIL)
-<!-- <img width="1017" height="803" alt="image" src="https://github.com/user-attachments/assets/5ffbc810-19c9-4aa7-8b3f-63df8f38b411" />
- -->
+<img width="1017" height="803" alt="image" src="https://github.com/user-attachments/assets/5ffbc810-19c9-4aa7-8b3f-63df8f38b411" />
+ 
