@@ -22,17 +22,17 @@ U **LangChain + LangGraph + FastAPI + Streamlit** yordamida qurilgan.
 ---
 
 ## 📂 Fayl tuzilishi
-CodeWriterBot/
-├── agents/
-│ ├── writer.py
-│ ├── tester.py
-├── fastapi_servis/
-│ ├── graph_builder.py
-│ ├── fast_api.py
-│ ├── streamlit_app.py
-├── main.py
-├── requirements.txt
-└── README.md
+- CodeWriterBot/
+- ├── agents/
+- │ ├── writer.py
+- │ ├── tester.py
+- ├── fastapi_servis/
+- │ ├── graph_builder.py
+- │ ├── fast_api.py
+- │ ├── streamlit_app.py
+- ├── main.py
+- ├── requirements.txt
+- └── README.md
 
 ## FastAPI backendni ishga tushirish
 uvicorn fastapi_servis.fast_api:app --reload --port 8000
